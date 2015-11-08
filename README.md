@@ -7,11 +7,8 @@ Please follow these instructions to get the images to us :smile: :
 
 1. Clone this repository using ```git clone https://github.com/CS196Illinois/1404-images.git```
 
-2. Add your images to the ```flash``` and ```no-flash``` folders. The first picture goes in the ```no-flash``` folder and the second one (the one taken with the flash turned on) goes in the ```flash``` folder. Your images should be called ```YourNetid.jpg```.
+2. Add your images to the ```flash``` and ```no-flash``` folders. The first picture goes in the ```no-flash``` folder and the second one (the one taken with the flash turned on) goes in the ```flash``` folder. Your images should be called ```YourNetid.jpg```. Don't forget to use ```git add```.
 
 3. Commit your changes ```git commit -m "images added by NETID"```
 
 4. Push your changes ```git pull && git push```
-
-###Warning :bowtie:
-We may decide to use this as attendence for Week 11's lecture as we know quite a few people like to spoof their attendence.
